@@ -69,7 +69,7 @@ The **JEE Mock Test System** is a web-based platform designed to assist students
    python main.py
    ```
 
-   Then, navigate to `http://localhost:5000` in your browser.
+   
 
 ## File Structure
 
